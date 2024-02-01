@@ -41,3 +41,4 @@ function atualizaTabela () { //atualiza o conteúdo da tabela com as linhas cons
     corpoTabela.innerHTML = linhas;//isso substitue todo o conteudo do 'tbody' pelo conteudo das 'linhas'
 }
 
+

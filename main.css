@@ -79,7 +79,6 @@ table td {
     border-radius: 6px;
     font-weight: bold;
     margin-bottom: 40px;
-
 }
 
 input[type="number"]::-webkit-inner-spin-button, /* isso tira o incremento e decremento do campo number do telefone */
@@ -101,3 +100,4 @@ p {
     margin-top: 30px;
     text-align: center;
 }
+
